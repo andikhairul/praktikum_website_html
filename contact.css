@@ -1,0 +1,67 @@
+.Andikha{
+    color: wheat;
+    background-color: rgba(red, green, blue, alpha);
+    width: 80%;
+    padding: 50px 80px;
+    font-size: 10px;
+    margin: auto;
+}
+body{
+    margin: auto;
+    background-image: url(images.jpg);
+    width: 80%;
+    padding: 40px;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: rgba(red, green, blue, alpha);
+    font-size: 30px;
+}
+.Facebook{
+    background-image: url(gambar/fb.JPG);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.Instagram{
+    background-image: url(gambar/ig.JPG);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.WhatsApp{
+    background-image: url(gambar/wa.JPG);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.Email{
+    background-image: url(gambar/email.JPG);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;
+    margin-bottom: 200px;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
